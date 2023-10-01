@@ -1,0 +1,3 @@
+And it’s a core measure when calculating infrastructure spend. Sample traffic metrics include: number of HTTP requests per second number of requests for static vs. dynamic content Network I/O number of concurrent sessions number of transactions per second
+number of retrievals per second number of active requests number of write ops number of read ops And number of active connections The third signal is saturation, which measures how close to capacity a system is.
+It’s important to note, though, that capacity is often a subjective measure that depends on the underlying service or application. Saturation is important because: It's an indicator of how full the service is.
